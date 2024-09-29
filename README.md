@@ -64,44 +64,6 @@ The app is deployed on Netlify. Check it out here: [Live Demo](https://edutrack-
 ### Teacher's Salary Page
 ![Teacher Salary Screenshot](./Screenshort/Teacher's_Salary_page.png)
 
-## Folder Structure
-The project follows a structured format:
-
-```bash
-src
-├── components
-│   ├── ClassModal.jsx
-│   ├── ClassTable.jsx
-│   ├── Sidebar.jsx
-│   ├── StudentTable.jsx
-│   ├── TeacherClassaTable.jsx
-│   ├── TeacherTable.jsx
-├── data
-│   ├── fileImports.js
-├── hooks
-│   ├── useDeviceWidth.jsx
-│   ├── useGenerateUniqueKey.jsx
-│   ├── useRouter.jsx
-├── pages
-│   ├── AdminDashboardLayout.jsx
-│   ├── ClassPage.jsx
-│   ├── DashboardLayout.jsx
-│   ├── FinancePage.jsx
-│   ├── Profile.jsx
-│   ├── ProtectedRoute.jsx
-│   ├── SignIn.jsx
-│   ├── SignUp.jsx
-│   ├── StudentPage.jsx
-│   ├── TeacherPage.jsx
-├── slices
-│   ├── classSlice.jsx
-└── utils
-```
-
-## Contributing
-
-Feel free to open a pull request or issue for suggestions, bug reports, or new features.
-
 ## Contact
 
 For any queries or issues, reach out to me at:  
