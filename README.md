@@ -4,7 +4,7 @@ A comprehensive school management application designed to simplify administrativ
 
 [Live Demo](https://edutrack-sonali-singh.netlify.app)
 
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![Dashboard Screenshot](./screenshots/)
 
 ## Features
 - **User Authentication**: Secure signup and signin.
@@ -31,4 +31,4 @@ A comprehensive school management application designed to simplify administrativ
 
  For any queries or issues, reach out to me at:
 - **Gmail**: sonalisingh30112001@gmail.com
-- **GitHub**: 
+- **GitHub**: https://github.com/sonalisingh30/Cuvette_Assign_App
